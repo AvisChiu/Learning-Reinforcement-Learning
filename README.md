@@ -18,4 +18,5 @@ https://github.com/aikorea/awesome-rl
 https://github.com/awjuliani/DeepRL-Agents
 https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python
+https://github.com/wwxFromTju/awesome-reinforcement-learning-zh
 ```

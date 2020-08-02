@@ -15,3 +15,6 @@ http://incompleteideas.net/book/RLbook2018trimmed.pdf
 ```
 https://github.com/dennybritz/reinforcement-learning
 ```
+```
+https://github.com/awjuliani/DeepRL-Agents
+```

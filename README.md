@@ -14,10 +14,7 @@ http://incompleteideas.net/book/RLbook2018trimmed.pdf
 # Learning Resources
 ```
 https://github.com/dennybritz/reinforcement-learning
-```
-```
+https://github.com/aikorea/awesome-rl
 https://github.com/awjuliani/DeepRL-Agents
-```
-```
 https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 ```

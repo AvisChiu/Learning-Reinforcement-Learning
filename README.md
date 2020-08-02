@@ -10,3 +10,8 @@ Reference
 R. Sutton, A. Barto. Reinforcement learning      
 http://incompleteideas.net/book/RLbook2018trimmed.pdf   
 
+
+# Learning Resources
+```
+https://github.com/dennybritz/reinforcement-learning
+```

@@ -18,3 +18,6 @@ https://github.com/dennybritz/reinforcement-learning
 ```
 https://github.com/awjuliani/DeepRL-Agents
 ```
+```
+https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+```
